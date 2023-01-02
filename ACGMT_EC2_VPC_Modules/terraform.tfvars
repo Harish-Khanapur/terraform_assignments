@@ -1,0 +1,6 @@
+access_key = "YOUR-ACCESS-KEY"
+secret_key = "YOUR-SECRET-KEY"
+key_name= "YOUR-KEY-PAIR-NAME"
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.1.0/24"
+subnet_availability_zone= "us-east-1a"
